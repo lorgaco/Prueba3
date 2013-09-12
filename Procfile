@@ -1,0 +1,1 @@
+web: gunicorn Prueba3.wsgi
